@@ -56,6 +56,7 @@ Clone MicroPython source code
     git clone https://github.com/micropython/micropython
     
 Compile Python cross compiler
+
     cd micropython
     cd mpy-cross
     make
