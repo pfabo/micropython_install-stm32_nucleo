@@ -15,10 +15,13 @@
     https://www.st.com/en/development-tools/stm32cubeprog.html
     
 ### Terminal emulator
-    [https://github.com/npat-efault/picocom
+
+    https://en.wikipedia.org/wiki/Minicom
+    https://github.com/npat-efault/picocom
+    https://gitlab.com/cutecom/cutecom/
 
 
-## Preparation
+## Preparation (Linux)
 
 Install gcc-arm compiler and libraries
 
