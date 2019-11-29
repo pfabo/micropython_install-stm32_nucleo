@@ -1,6 +1,23 @@
 
 # How to install MicroPython on Nucleo32/64 with STM32L4 MCU
 
+## Sources
+
+### MicroPython
+
+    https://micropython.org/
+    https://github.com/micropython/micropython
+    http://docs.micropython.org/en/latest/
+    
+### Programmers
+
+    https://github.com/texane/stlink.git
+    https://www.st.com/en/development-tools/stm32cubeprog.html
+    
+### Terminal emulator
+    [https://github.com/npat-efault/picocom
+
+
 ## Preparation
 
 Install gcc-arm compiler and libraries
@@ -24,7 +41,7 @@ Connect Nucleo board to computer and test programmer installation
 
     st-info --probe
     
-Install some terminal emulator (minicom, CuteCom) or use simple picocom
+Install some terminal emulator (minicom, CuteCom) or use simple picocom 
 
     sudo apt-get install picocom
 
