@@ -80,7 +80,7 @@ look on on-board help
 
     >>> help()
  
-and anjoy Python on STM Nucleo board :-)
+and enjoy Python on STM Nucleo board :-)
 
     >>> import pyb
     >>> d = pyb.LED(1)
